@@ -6,20 +6,7 @@ This repository provides a structured manual testing project for a sample applic
 
 ---
 
-## 📁 Project Structure
 
-Manual-Testing-Project/
-├── TestPlan/
-│ └── Test_Plan_Document.docx
-├── TestCases/
-│ ├── Login_TestCases.xlsx
-│ ├── Signup_TestCases.xlsx
-│ └── Dashboard_TestCases.xlsx
-└── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
